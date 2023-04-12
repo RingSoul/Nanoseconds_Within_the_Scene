@@ -1,5 +1,6 @@
 # Nanoseconds_Within_the_Scene
-A piece of creative nonfiction for my Creative Writing class; full title = "Nanoseconds Within the Scene: About Where I Perform This Soliloquy"
+A piece of creative nonfiction for my Creative Writing class.
+Full title = "Nanoseconds Within the Scene: About Where I Perform This Soliloquy"
 
 失算了，匆匆写下的结尾太拉垮，本来没打算写“励志文”的。
 
